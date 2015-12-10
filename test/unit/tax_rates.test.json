@@ -1,0 +1,29 @@
+{
+  "2014": {
+    "18200": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "37000": {
+      "limit": 18200,
+      "fixed": 0,
+      "multiplier": 0.190
+    },
+    "80000": {
+      "limit": 37000,
+      "fixed": 3572,
+      "multiplier": 0.325
+    },
+    "180000": {
+      "limit": 80000,
+      "fixed": 17547,
+      "multiplier": 0.370
+    },
+    "+180000": {
+      "limit": 180000,
+      "fixed": 54547,
+      "multiplier": 0.450
+    }
+  }
+}

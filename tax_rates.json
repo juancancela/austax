@@ -1,0 +1,911 @@
+{
+  "2015": {
+    "18200": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "37000": {
+      "limit": 18200,
+      "fixed": 0,
+      "multiplier": 0.190
+    },
+    "80000": {
+      "limit": 37000,
+      "fixed": 3572,
+      "multiplier": 0.325
+    },
+    "180000": {
+      "limit": 80000,
+      "fixed": 17547,
+      "multiplier": 0.370
+    },
+    "+180000": {
+      "limit": 180000,
+      "fixed": 54547,
+      "multiplier": 0.450
+    }
+  },
+  "2014": {
+    "18200": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "37000": {
+      "limit": 18200,
+      "fixed": 0,
+      "multiplier": 0.190
+    },
+    "80000": {
+      "limit": 37000,
+      "fixed": 3572,
+      "multiplier": 0.325
+    },
+    "180000": {
+      "limit": 80000,
+      "fixed": 17547,
+      "multiplier": 0.370
+    },
+    "+180000": {
+      "limit": 180000,
+      "fixed": 54547,
+      "multiplier": 0.450
+    }
+  },
+  "2013": {
+    "18200": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "37000": {
+      "limit": 18200,
+      "fixed": 0,
+      "multiplier": 0.190
+    },
+    "80000": {
+      "limit": 37000,
+      "fixed": 3572,
+      "multiplier": 0.325
+    },
+    "180000": {
+      "limit": 80000,
+      "fixed": 17547,
+      "multiplier": 0.370
+    },
+    "+180000": {
+      "limit": 180000,
+      "fixed": 54547,
+      "multiplier": 0.450
+    }
+  },
+  "2012": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "37000": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.150
+    },
+    "80000": {
+      "limit": 37000,
+      "fixed": 4650,
+      "multiplier": 0.300
+    },
+    "180000": {
+      "limit": 80000,
+      "fixed": 17550,
+      "multiplier": 0.370
+    },
+    "+180000": {
+      "limit": 180000,
+      "fixed": 54550,
+      "multiplier": 0.450
+    }
+  },
+  "2011": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "37000": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.150
+    },
+    "80000": {
+      "limit": 37000,
+      "fixed": 4650,
+      "multiplier": 0.300
+    },
+    "180000": {
+      "limit": 80000,
+      "fixed": 17550,
+      "multiplier": 0.370
+    },
+    "+180000": {
+      "limit": 180000,
+      "fixed": 54550,
+      "multiplier": 0.450
+    }
+  },
+  "2010": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "35000": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.150
+    },
+    "80000": {
+      "limit": 35000,
+      "fixed": 4650,
+      "multiplier": 0.300
+    },
+    "180000": {
+      "limit": 180000,
+      "fixed": 17550,
+      "multiplier": 0.380
+    },
+    "+180000": {
+      "limit": 180000,
+      "fixed": 54550,
+      "multiplier": 0.450
+    }
+  },
+  "2009": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "34000": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.150
+    },
+    "80000": {
+      "limit": 34000,
+      "fixed": 4200,
+      "multiplier": 0.300
+    },
+    "180000": {
+      "limit": 80000,
+      "fixed": 18000,
+      "multiplier": 0.400
+    },
+    "+180000": {
+      "limit": 180000,
+      "fixed": 58000,
+      "multiplier": 0.450
+    }
+  },
+  "2008": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "30000": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.150
+    },
+    "75000": {
+      "limit": 30000,
+      "fixed": 4200,
+      "multiplier": 0.300
+    },
+    "150000": {
+      "limit": 75000,
+      "fixed": 18000,
+      "multiplier": 0.400
+    },
+    "+150000": {
+      "limit": 150000,
+      "fixed": 58000,
+      "multiplier": 0.450
+    }
+  },
+  "2007": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "25000": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.150
+    },
+    "75000": {
+      "limit": 25000,
+      "fixed": 2850,
+      "multiplier": 0.300
+    },
+    "150000": {
+      "limit": 75000,
+      "fixed": 17850,
+      "multiplier": 0.400
+    },
+    "+150000": {
+      "limit": 150000,
+      "fixed": 47850,
+      "multiplier": 0.450
+    }
+  },
+  "2006": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "21600": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.170
+    },
+    "58000": {
+      "limit": 21600,
+      "fixed": 2652,
+      "multiplier": 0.300
+    },
+    "70000": {
+      "limit": 58000,
+      "fixed": 13572,
+      "multiplier": 0.420
+    },
+    "+70000": {
+      "limit": 70000,
+      "fixed": 18612,
+      "multiplier": 0.470
+    }
+  },
+  "2005": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "21600": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.170
+    },
+    "58000": {
+      "limit": 21600,
+      "fixed": 2652,
+      "multiplier": 0.300
+    },
+    "70000": {
+      "limit": 58000,
+      "fixed": 13572,
+      "multiplier": 0.420
+    },
+    "+70000": {
+      "limit": 70000,
+      "fixed": 18612,
+      "multiplier": 0.470
+    }
+  },
+  "2004": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "21600": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.170
+    },
+    "52000": {
+      "limit": 21600,
+      "fixed": 2652,
+      "multiplier": 0.300
+    },
+    "62500": {
+      "limit": 52000,
+      "fixed": 13572,
+      "multiplier": 0.420
+    },
+    "+62500": {
+      "limit": 62500,
+      "fixed": 18612,
+      "multiplier": 0.470
+    }
+  },
+  "2003": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20000": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.170
+    },
+    "50000": {
+      "limit": 20000,
+      "fixed": 2380,
+      "multiplier": 0.300
+    },
+    "60000": {
+      "limit": 50000,
+      "fixed": 11380,
+      "multiplier": 0.420
+    },
+    "+60000": {
+      "limit": 60000,
+      "fixed": 15580,
+      "multiplier": 0.470
+    }
+  },
+  "2002": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20000": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.170
+    },
+    "50000": {
+      "limit": 20000,
+      "fixed": 2380,
+      "multiplier": 0.300
+    },
+    "60000": {
+      "limit": 50000,
+      "fixed": 11380,
+      "multiplier": 0.420
+    },
+    "+60000": {
+      "limit": 60000,
+      "fixed": 15580,
+      "multiplier": 0.470
+    }
+  },
+  "2001": {
+    "6000": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20000": {
+      "limit": 6000,
+      "fixed": 0,
+      "multiplier": 0.170
+    },
+    "50000": {
+      "limit": 20000,
+      "fixed": 2380,
+      "multiplier": 0.300
+    },
+    "60000": {
+      "limit": 50000,
+      "fixed": 11380,
+      "multiplier": 0.420
+    },
+    "+60000": {
+      "limit": 60000,
+      "fixed": 15580,
+      "multiplier": 0.470
+    }
+  },
+  "2000": {
+    "5400": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20700": {
+      "limit": 5400,
+      "fixed": 0,
+      "multiplier": 0.200
+    },
+    "38000": {
+      "limit": 20700,
+      "fixed": 3060,
+      "multiplier": 0.340
+    },
+    "50000": {
+      "limit": 38000,
+      "fixed": 8942,
+      "multiplier": 0.430
+    },
+    "+50000": {
+      "limit": 50000,
+      "fixed": 14102,
+      "multiplier": 0.470
+    }
+  },
+  "1999": {
+    "5400": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20700": {
+      "limit": 5400,
+      "fixed": 0,
+      "multiplier": 0.200
+    },
+    "38000": {
+      "limit": 20700,
+      "fixed": 3060,
+      "multiplier": 0.340
+    },
+    "50000": {
+      "limit": 38000,
+      "fixed": 8942,
+      "multiplier": 0.430
+    },
+    "+50000": {
+      "limit": 50000,
+      "fixed": 14102,
+      "multiplier": 0.470
+    }
+  },
+  "1998": {
+    "5400": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20700": {
+      "limit": 5400,
+      "fixed": 0,
+      "multiplier": 0.200
+    },
+    "38000": {
+      "limit": 20700,
+      "fixed": 3060,
+      "multiplier": 0.340
+    },
+    "50000": {
+      "limit": 38000,
+      "fixed": 8942,
+      "multiplier": 0.430
+    },
+    "+50000": {
+      "limit": 50000,
+      "fixed": 14102,
+      "multiplier": 0.470
+    }
+  },
+  "1997": {
+    "5400": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20700": {
+      "limit": 5400,
+      "fixed": 0,
+      "multiplier": 0.200
+    },
+    "38000": {
+      "limit": 20700,
+      "fixed": 3060,
+      "multiplier": 0.340
+    },
+    "50000": {
+      "limit": 38000,
+      "fixed": 8942,
+      "multiplier": 0.430
+    },
+    "+50000": {
+      "limit": 50000,
+      "fixed": 14102,
+      "multiplier": 0.470
+    }
+  },
+  "1996": {
+    "5400": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20700": {
+      "limit": 5400,
+      "fixed": 0,
+      "multiplier": 0.200
+    },
+    "38000": {
+      "limit": 20700,
+      "fixed": 3060,
+      "multiplier": 0.340
+    },
+    "50000": {
+      "limit": 38000,
+      "fixed": 8942,
+      "multiplier": 0.430
+    },
+    "+50000": {
+      "limit": 50000,
+      "fixed": 14102,
+      "multiplier": 0.470
+    }
+  },
+  "1995": {
+    "5400": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20700": {
+      "limit": 5400,
+      "fixed": 0,
+      "multiplier": 0.200
+    },
+    "38000": {
+      "limit": 20700,
+      "fixed": 3060,
+      "multiplier": 0.340
+    },
+    "50000": {
+      "limit": 38000,
+      "fixed": 8942,
+      "multiplier": 0.430
+    },
+    "+50000": {
+      "limit": 50000,
+      "fixed": 14102,
+      "multiplier": 0.470
+    }
+  },
+  "1994": {
+    "5400": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20700": {
+      "limit": 5400,
+      "fixed": 0,
+      "multiplier": 0.200
+    },
+    "36000": {
+      "limit": 20700,
+      "fixed": 3060,
+      "multiplier": 0.355
+    },
+    "38000": {
+      "limit": 36000,
+      "fixed": 8491.50,
+      "multiplier": 0.385
+    },
+    "50000": {
+      "limit": 38000,
+      "fixed": 9261.50,
+      "multiplier": 0.441
+    },
+    "+50000": {
+      "limit": 50000,
+      "fixed": 14556.50,
+      "multiplier": 0.470
+    }
+  },
+  "1993": {
+    "5400": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20700": {
+      "limit": 5400,
+      "fixed": 0,
+      "multiplier": 0.200
+    },
+    "36000": {
+      "limit": 20700,
+      "fixed": 3060,
+      "multiplier": 0.380
+    },
+    "50000": {
+      "limit": 38000,
+      "fixed": 8874,
+      "multiplier": 0.460
+    },
+    "+50000": {
+      "limit": 50000,
+      "fixed": 15314,
+      "multiplier": 0.470
+    }
+  },
+  "1992": {
+    "5400": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "20700": {
+      "limit": 5400,
+      "fixed": 0,
+      "multiplier": 0.200
+    },
+    "36000": {
+      "limit": 20700,
+      "fixed": 3060,
+      "multiplier": 0.380
+    },
+    "50000": {
+      "limit": 38000,
+      "fixed": 8874,
+      "multiplier": 0.460
+    },
+    "+50000": {
+      "limit": 50000,
+      "fixed": 15314,
+      "multiplier": 0.470
+    }
+  },
+  "1991": {
+    "5249": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "17649": {
+      "limit": 5249,
+      "fixed": 0,
+      "multiplier": 0.205
+    },
+    "20599": {
+      "limit": 17649,
+      "fixed": 2542,
+      "multiplier": 0.245
+    },
+    "20699": {
+      "limit": 20599,
+      "fixed": 3264.75,
+      "multiplier": 0.295
+    },
+    "34999": {
+      "limit": 20699,
+      "fixed": 3294.25,
+      "multiplier": 0.385
+    },
+    "35999": {
+      "limit": 34999,
+      "fixed": 8799.75,
+      "multiplier": 0.425
+    },
+    "49999": {
+      "limit": 35999,
+      "fixed": 9224.75,
+      "multiplier": 0.465
+    },
+    "+49999": {
+      "limit": 49999,
+      "fixed": 15734.75,
+      "multiplier": 0.470
+    }
+  },
+  "1990": {
+    "5099": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "17649": {
+      "limit": 5099,
+      "fixed": 0,
+      "multiplier": 0.210
+    },
+    "20599": {
+      "limit": 17649,
+      "fixed": 2635.50,
+      "multiplier": 0.290
+    },
+    "34999": {
+      "limit": 20599,
+      "fixed": 3491,
+      "multiplier": 0.390
+    },
+    "49999": {
+      "limit": 34999,
+      "fixed": 9107,
+      "multiplier": 0.470
+    },
+    "+49999": {
+      "limit": 49999,
+      "fixed": 16157,
+      "multiplier": 0.480
+    }
+  },
+  "1989": {
+    "5100": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "12600": {
+      "limit": 5100,
+      "fixed": 0,
+      "multiplier": 0.240
+    },
+    "19500": {
+      "limit": 12600,
+      "fixed": 1800,
+      "multiplier": 0.290
+    },
+    "35000": {
+      "limit": 19500,
+      "fixed": 3801,
+      "multiplier": 0.400
+    },
+    "+35000": {
+      "limit": 35000,
+      "fixed": 10001,
+      "multiplier": 0.490
+    }
+  },
+  "1988": {
+    "5100": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "12600": {
+      "limit": 5100,
+      "fixed": 0,
+      "multiplier": 0.240
+    },
+    "19500": {
+      "limit": 12600,
+      "fixed": 1800,
+      "multiplier": 0.290
+    },
+    "35000": {
+      "limit": 19500,
+      "fixed": 3801,
+      "multiplier": 0.400
+    },
+    "+35000": {
+      "limit": 35000,
+      "fixed": 10001,
+      "multiplier": 0.490
+    }
+  },
+  "1987": {
+    "4889": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "12499": {
+      "limit": 4890,
+      "fixed": 0,
+      "multiplier": 0.244
+    },
+    "12599": {
+      "limit": 12500,
+      "fixed": 1858.36,
+      "multiplier": 0.265
+    },
+    "19499": {
+      "limit": 12600,
+      "fixed": 1884.86,
+      "multiplier": 0.294
+    },
+    "27999": {
+      "limit": 19500,
+      "fixed": 3914.84,
+      "multiplier": 0.442
+    },
+    "34999": {
+      "limit": 28000,
+      "fixed": 7676.09,
+      "multiplier": 0.468
+    },
+    "+34999": {
+      "limit": 35000,
+      "fixed": 10954.19,
+      "multiplier": 0.571
+    }
+  },
+  "1986": {
+    "4594": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "12499": {
+      "limit": 4595,
+      "fixed": 0,
+      "multiplier": 0.250
+    },
+    "19499": {
+      "limit": 12500,
+      "fixed": 1976.26,
+      "multiplier": 0.300
+    },
+    "27999": {
+      "limit": 19500,
+      "fixed": 4076.25,
+      "multiplier": 0.460
+    },
+    "34999": {
+      "limit": 28000,
+      "fixed": 7986.25,
+      "multiplier": 0.480
+    },
+    "+34999": {
+      "limit": 35000,
+      "fixed": 11346.25,
+      "multiplier": 0.600
+    }
+  },
+  "1985": {
+    "4594": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "12499": {
+      "limit": 4595,
+      "fixed": 0,
+      "multiplier": 0.267
+    },
+    "19499": {
+      "limit": 12500,
+      "fixed": 2108.26,
+      "multiplier": 0.300
+    },
+    "27999": {
+      "limit": 19500,
+      "fixed": 4208.26,
+      "multiplier": 0.460
+    },
+    "34999": {
+      "limit": 28000,
+      "fixed": 8118.26,
+      "multiplier": 0.473
+    },
+    "35787": {
+      "limit": 35000,
+      "fixed": 11431.36,
+      "multiplier": 0.553
+    },
+    "+34788": {
+      "limit": 35788,
+      "fixed": 11867.36,
+      "multiplier": 0.600
+    }
+  },
+  "1984": {
+    "4594": {
+      "limit": 0,
+      "fixed": 0,
+      "multiplier": 0
+    },
+    "19499": {
+      "limit": 4595,
+      "fixed": 0,
+      "multiplier": 0.300
+    },
+    "35787": {
+      "limit": 19500,
+      "fixed": 4471.50,
+      "multiplier": 0.460
+    },
+    "+34787": {
+      "limit": 35788,
+      "fixed": 11963.98,
+      "multiplier": 0.600
+    }
+  }
+}
