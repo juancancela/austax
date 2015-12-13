@@ -2,9 +2,8 @@
   "name": "austax",
   "version": "1.0.0",
   "description": "Australian Tax Calculator Application",
-  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "app.js",
     "test": "node node_modules/mocha/bin/mocha --recursive test",
     "coverage": "node node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha test/unit/domain/*.test.js --recursive -- -u exports -R spec && open coverage/lcov-report/index.html"
   },
@@ -30,11 +29,7 @@
   },
   "homepage": "https://github.com/juancancela/austax#readme",
   "dependencies": {
-    "body-parser": "^1.14.1",
-    "ejs": "^2.3.4",
-    "express": "^4.13.3",
     "istanbul": "^0.4.1",
-    "mocha": "^2.3.4",
-    "path": "^0.12.7"
+    "mocha": "^2.3.4"
   }
 }
