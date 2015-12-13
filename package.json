@@ -1,7 +1,7 @@
 {
   "name": "austax",
-  "version": "1.0.0",
-  "description": "Australian Tax Calculator Application",
+  "version": "1.0.1",
+  "description": "Simplistic command line tool to calculate gross income and net income given an annual salary (for Australians only! :))",
   "scripts": {
     "start": "app.js",
     "test": "node node_modules/mocha/bin/mocha --recursive test",
@@ -12,6 +12,9 @@
     "url": "git+https://github.com/juancancela/austax.git"
   },
   "engine": "node 4.2.3",
+  "bin": {
+    "austax": "austax.js"
+  },
   "keywords": [
     "australia",
     "tax",

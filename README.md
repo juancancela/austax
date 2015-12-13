@@ -2,61 +2,32 @@
 
 ## System Requirements
 * NodeJS 4.2.3 LTS
-* Tested under Mac OSX 10.11.1 (El Capitan) and Fedora 23
 
-## Installing NodeJS
-
-### Windows and Mac users
-* Go to https://nodejs.org/en/download then download and install appropriate version (both in Windows and Mac is a one file installer).
-
-### Linux Users
-* Download sources from https://nodejs.org/en/download and run following command to install it:
+## Installation
 ```sh
-$ ./configure && make && make install
+$ npm install -g austax
 ```
 
-### Test NodeJS was correctly installed
+## Usage
 
-* Test that NodeJS was correctly installed in your system executing following
-  command (it must print v4.2.3):
 ```sh
-$ node -v
-```  
-
-## Installing application
-
-
-* On application root path, run following command to download application dependencies
-```sh
-$ npm install
+$ austax ANNUAL_SALARY SUPER_RATE START_DATE
 ```
 
-## Starting application
+### Example:
 
-* On application root path, run following command to start application
-```sh
-$ npm start
-```
-
-Once application is started, it can be tested from UI, navigating to http://localhost:5000 
-or using cURL, running following command:
+* Input
 
 ```sh
-$ curl http://localhost:5000/payslip?firstName=FIRST_NAME&lastName=LAST_NAME&annualSalary=ANNUAL_SALARY&superRate
-=SUPER_RATE&startDate=START_DATE
+$ austax 100000 0.4 12/12/12
 ```
 
+* Output
 
-## Executing application unit tests
+MONTH        : 12
+GROSS INCOME : 8333
+INCOME TAX   : 24950
+SUPER        : 3333
+NET INCOME   : 6254
 
-* On application root path, run following command to run tests
-```sh
-$ npm test
-```
 
-## Checking application code coverage
-
-* On application root path, run following command to generate code coverage site
-```sh
-$ npm run coverage
-```
