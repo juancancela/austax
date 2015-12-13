@@ -1,6 +1,6 @@
 {
   "name": "austax",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simplistic command line tool to calculate gross income and net income given an annual salary (for Australians only! :))",
   "scripts": {
     "start": "app.js",
